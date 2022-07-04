@@ -1,0 +1,31 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.color-gold span {
+    color: gold;
+}
+
+section {
+    display: flex;
+}
+
+.content {
+    width: 50%;
+    padding: 2%;
+}
+
+.content img {
+    width: 95%;
+}
+
+.top-img {
+    background: url(images/top-banner.png);
+    background-repeat: no-repeat;
+
+}
